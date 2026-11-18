@@ -1,0 +1,15 @@
+{
+  "name": "script4exec",
+  "version": "1.0.0",
+  "description": "A lightweight Discord bot for searching scripts on ScriptBlox and RScripts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
